@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ch1chu | uwu"
+title                    : "0sscarr - uwu"
 title_separator          : "-"
-name                     : "Ch1chu"
-description              : "Admin & dev in SoulCraft Network"
-url                      : "https://ch1chu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "0sscarr"
+description              : "Student | learning java and js"
+url                      : "https://0sscarr.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "ch1chu/ch1chu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "0sscarr/0sscarr.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/assets/images/masthead.png"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ch1chu"
+  name             : "0sscarr"
   avatar           : "/assets/images/avatar.png"
-  bio              : "Admin & Dev in Soulcraft Network"
+  bio              : "Student | learning java and js"
   location         : "Spain"
-  email            : "chichumc2002@gmail.com"
+  email            : "oscarpalazonsc@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -114,7 +114,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Ch1chu"
+  github           : "0sscarr"
   gitlab           :
   google_plus      :
   keybase          : #null
