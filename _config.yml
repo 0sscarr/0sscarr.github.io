@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "0sscarr - uwu"
 title_separator          : "-"
 name                     : "0sscarr"
-description              : "Student | learning java and js"
+description              : "Student | learning java and python"
 url                      : "https://0sscarr.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "0sscarr/0sscarr.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "0sscarr"
   avatar           : "/assets/images/avatar.png"
-  bio              : "Student | learning java and js"
+  bio              : "Student | learning java and python"
   location         : "Spain"
   email            : "oscarpalazonsc@gmail.com"
   uri              :
